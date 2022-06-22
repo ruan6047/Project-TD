@@ -702,7 +702,11 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
+<<<<<<< HEAD
     Standalone: ODIN_INSPECTOR;ODIN_INSPECTOR_3
+=======
+    Standalone: ODIN_INSPECTOR;ODIN_INSPECTOR_3;ODIN_VALIDATOR
+>>>>>>> parent of 0f93aa6... chore: Ignore Unity 付費Plugin
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
